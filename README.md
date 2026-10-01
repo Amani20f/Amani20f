@@ -14,10 +14,10 @@ I build cross-platform apps with **Flutter** and connect them to clean, well-str
 
 ### 🛠️ Tech Stack
 
-**Frontend & Mobile:** Flutter · Dart · HTML · CSS · JavaScript
-**Backend:** Laravel · PHP · REST APIs · Laravel Sanctum
-**Databases:** PostgreSQL · MySQL
-**Tools:** Git & GitHub · Docker · Postman · VS Code · Android Studio
+- **Frontend & Mobile:** Flutter · Dart · HTML · CSS · JavaScript
+- **Backend:** Laravel · PHP · REST APIs · Laravel Sanctum
+- **Databases:** PostgreSQL · MySQL
+- **Tools:** Git & GitHub · Docker · Postman · VS Code · Android Studio
 
 ---
 
