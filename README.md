@@ -29,6 +29,8 @@ A complete university services platform made of three parts:
 - **Admin Dashboard** (Flutter Web) — staff manage admissions, requests, grades, and notifications.
 - **REST API** (Laravel 12 + PostgreSQL) — role-based access control (admin, student affairs, accountant, grade control, student), Excel grade import, and activity logging.
 
+**My role:** Full-stack — built the Laravel backend API, the Flutter frontend, and designed the PostgreSQL database.
+
 `Flutter` `Dart` `Laravel` `PHP` `PostgreSQL` `Docker`
 
 ---
