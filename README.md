@@ -36,7 +36,7 @@ A complete university services platform made of three parts:
 #### 🦸 [Hero Mission](https://github.com/Amani20f/Hero_Mission)
 A gamified to-do app for children: tasks become missions, kids earn coins, level up, and redeem rewards, while parents manage everything from their own dashboard.
 
-**My role:** Team project with [@noorbam](https://github.com/noorbam) — worked on the UI, the gamification logic, and the Firebase integration.
+**My role:** Team project (5 members) — worked on the UI, the gamification logic, and the Firebase integration.
 
 `Flutter` `Dart` `Firebase` `Firestore`
 
