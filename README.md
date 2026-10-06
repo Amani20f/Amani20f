@@ -1,48 +1,11 @@
-# Hi, I'm Amani 👋
+### Hi, I'm Amani
 
-**Junior Frontend Developer · Information Technology Graduate**
+Frontend developer building mobile and web apps with Flutter. I like taking a feature all the way from the UI through the API and the database.
 
-I build cross-platform apps with **Flutter** and connect them to clean, well-structured **REST APIs** built with **Laravel**. I care about clear UI, readable code, and software that solves real problems for real users.
+**Tech:** Flutter · Dart · Laravel · PHP · PostgreSQL · Firebase · Git · Docker
 
-- 🎓 B.Sc. in Information Technology
-- 📱 Focus: Flutter (mobile & web), frontend development, API integration
-- 🌱 Currently improving: state management, testing, and UI/UX design
-- 🌍 Languages: Arabic (native), English
-- 💼 **Open to:** junior / graduate roles in frontend, mobile, or full-stack development
+**Projects**
+- [University Service Ecosystem](https://github.com/Amani20f/Student_ser) — student portal and admin dashboard in Flutter, backed by a Laravel REST API and PostgreSQL
+- [Hero Mission](https://github.com/Amani20f/Hero_Mission) — gamified to-do app for children with parental controls, built with Flutter and Firebase (team of 5)
 
----
-
-### 🛠️ Tech Stack
-
-- **Frontend & Mobile:** Flutter · Dart · HTML · CSS · JavaScript
-- **Backend:** Laravel · PHP · REST APIs · Laravel Sanctum
-- **Databases:** PostgreSQL · MySQL
-- **Tools:** Git & GitHub · Docker · Postman · VS Code · Android Studio
-
----
-
-### ⭐ Featured Project
-
-#### 🎓 [University Service Ecosystem](https://github.com/Amani20f/Student_ser)
-A complete university services platform made of three parts:
-- **Student Portal** (Flutter) — students view grades, schedules, announcements, and submit service requests and payments.
-- **Admin Dashboard** (Flutter Web) — staff manage admissions, requests, grades, and notifications.
-- **REST API** (Laravel 12 + PostgreSQL) — role-based access control (admin, student affairs, accountant, grade control, student), Excel grade import, and activity logging.
-
-**My role:** Built the Laravel backend API, the Flutter frontend, and designed the PostgreSQL database.
-
-`Flutter` `Dart` `Laravel` `PHP` `PostgreSQL` `Docker`
-
-#### 🦸 [Hero Mission](https://github.com/Amani20f/Hero_Mission)
-A gamified to-do app for children: tasks become missions, kids earn coins, level up, and redeem rewards, while parents manage everything from their own dashboard.
-
-**My role:** Team project (5 members) — worked on the UI, the gamification logic, and the Firebase integration.
-
-`Flutter` `Dart` `Firebase` `Firestore`
-
----
-
-### 📫 Contact
-
-- ✉️ Email: [amanirabeea.2@gmail.com](mailto:amanirabeea.2@gmail.com)
-- 📄 CV: available on request
+Contact: amanirabeea.2@gmail.com
